@@ -1,0 +1,1 @@
+Counting of plotted neurons (in red, green, and yellow) from murine brain slices in 10 layered ROIs using ImageJ macros. Jupyter notebooks written in Python for dataframe management and data visualization.
